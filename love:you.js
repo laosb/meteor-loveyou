@@ -14,6 +14,13 @@ LoveYou.strings = {
         'I_LOVE_YOU__END': '. ',
         'SPECIALLY_BUILT_FOR_YOU': 'This app is specially built for you. ',
         'LOVE_LASTS_FOREVER': 'Love lasts forever.'
+    },
+    zh_cn: {
+        'I_LOVE_YOU_HONEY': '宝贝我爱你。',
+        'I_LOVE_YOU__PRE': '我爱你，',
+        'I_LOVE_YOU__END': '。',
+        'SPECIALLY_BUILT_FOR_YOU': '为你私人定制的。',
+        'LOVE_LASTS_FOREVER': '爱无尽。'
     }
 }
 
